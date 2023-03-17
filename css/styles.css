@@ -23,7 +23,7 @@ h1 {
 
 @media screen and (max-width: 768px){
   img {
-    width: 30%;
+    width: 50%;
     margin: auto;
     display: block;
   }
@@ -52,3 +52,12 @@ h1 {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .box1 {
+    border: solid black;
+    border-width: 0.5%;
+    background-color: silver;
+    padding: 10px;
+    margin: 1%;
+  }
+}
