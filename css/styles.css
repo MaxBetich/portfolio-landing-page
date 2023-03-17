@@ -6,6 +6,11 @@
   margin: 1%;
 }
 
+.section {
+  font-style: italic;
+  font-weight: bold;
+}
+
 img {
   float: right;
   width: 30%;
