@@ -1,0 +1,16 @@
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 0.5%;
+  padding: 5px;
+  margin: 1%;
+}
+
+img {
+  float: right;
+  width: 30%;
+}
+
+body {
+  background-color: gray;
+}
