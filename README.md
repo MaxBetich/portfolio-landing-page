@@ -18,8 +18,6 @@ This web page functions as an introductory point and guide to the projects found
 * Navigate to top level of the "portfolio-landing-page" directory.
 * Open "index.html" file in browser of choice to view the page.
 
-Project can be cloned from this [GitHub repository](https://github.com/MaxBetich/portfolio-landing-page.git).
-
 [Click here](https://maxbetich.github.io/portfolio-landing-page/) to view the page on GitHub Pages.
 
 ## Known Bugs
