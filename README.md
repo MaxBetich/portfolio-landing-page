@@ -14,7 +14,9 @@ This web page functions as an introductory point and guide to the projects found
 
 ## Setup/Installation Requirements
 
-Open "index.html" file in browser of choice to view the page.
+* Clone project from this [GitHub repository](https://github.com/MaxBetich/portfolio-landing-page.git) to your desktop.
+* Navigate to top level of the "portfolio-landing-page" directory.
+* Open "index.html" file in browser of choice to view the page.
 
 Project can be cloned from this [GitHub repository](https://github.com/MaxBetich/portfolio-landing-page.git).
 
